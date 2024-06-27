@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mailforsaishashank@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1l3-Thn_HdvKvtuJGw4Ni0b_3xbGER24d/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10lxo5OdfVmn7hBugEIawMtrqPWuVSYc2/view)
 
 - ⚡ Fun fact **My code compiles on the first try... sometimes.**
 
